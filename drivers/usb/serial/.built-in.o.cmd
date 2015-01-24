@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/built-in.o :=  /media/sagformas/47f72a56-be22-485d-ba83-da42e0d4eb18/fuentes/Samsung/TrendPlus/GT-S7580_JB_Opensource/rk-prebuilts/bin/arm-eabi-ld.bfd -EL    -r -o drivers/usb/serial/built-in.o drivers/usb/serial/usbserial.o drivers/usb/serial/option.o drivers/usb/serial/usb_wwan.o 

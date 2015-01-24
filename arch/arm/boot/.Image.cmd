@@ -1,0 +1,1 @@
+cmd_arch/arm/boot/Image := /media/sagformas/47f72a56-be22-485d-ba83-da42e0d4eb18/fuentes/Samsung/TrendPlus/GT-S7580_JB_Opensource/rk-prebuilts/bin/arm-eabi-objcopy -O binary -R .comment -S  vmlinux arch/arm/boot/Image

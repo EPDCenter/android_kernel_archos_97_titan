@@ -1,0 +1,1 @@
+cmd_drivers/i2c/built-in.o :=  /media/sagformas/47f72a56-be22-485d-ba83-da42e0d4eb18/fuentes/Samsung/TrendPlus/GT-S7580_JB_Opensource/rk-prebuilts/bin/arm-eabi-ld.bfd -EL    -r -o drivers/i2c/built-in.o drivers/i2c/i2c-boardinfo.o drivers/i2c/i2c-core.o drivers/i2c/algos/built-in.o drivers/i2c/busses/built-in.o drivers/i2c/muxes/built-in.o 

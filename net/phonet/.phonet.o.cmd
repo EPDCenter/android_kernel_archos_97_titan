@@ -1,0 +1,1 @@
+cmd_net/phonet/phonet.o := /media/sagformas/47f72a56-be22-485d-ba83-da42e0d4eb18/fuentes/Samsung/TrendPlus/GT-S7580_JB_Opensource/rk-prebuilts/bin/arm-eabi-ld.bfd -EL    -r -o net/phonet/phonet.o net/phonet/pn_dev.o net/phonet/pn_netlink.o net/phonet/socket.o net/phonet/datagram.o net/phonet/sysctl.o net/phonet/af_phonet.o 

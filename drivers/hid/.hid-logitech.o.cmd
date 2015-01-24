@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-logitech.o := /media/sagformas/47f72a56-be22-485d-ba83-da42e0d4eb18/fuentes/Samsung/TrendPlus/GT-S7580_JB_Opensource/rk-prebuilts/bin/arm-eabi-ld.bfd -EL    -r -o drivers/hid/hid-logitech.o drivers/hid/hid-lg.o drivers/hid/hid-lgff.o drivers/hid/hid-lg2ff.o drivers/hid/hid-lg3ff.o drivers/hid/hid-lg4ff.o 

@@ -1,0 +1,1 @@
+cmd_drivers/video/rockchip/rga/rga.o := /media/sagformas/47f72a56-be22-485d-ba83-da42e0d4eb18/fuentes/Samsung/TrendPlus/GT-S7580_JB_Opensource/rk-prebuilts/bin/arm-eabi-ld.bfd -EL    -r -o drivers/video/rockchip/rga/rga.o drivers/video/rockchip/rga/rga_drv.o drivers/video/rockchip/rga/rga_mmu_info.o drivers/video/rockchip/rga/rga_reg_info.o drivers/video/rockchip/rga/RGA_API.o 

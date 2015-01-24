@@ -1,0 +1,1 @@
+cmd_drivers/power/built-in.o :=  /media/sagformas/47f72a56-be22-485d-ba83-da42e0d4eb18/fuentes/Samsung/TrendPlus/GT-S7580_JB_Opensource/rk-prebuilts/bin/arm-eabi-ld.bfd -EL    -r -o drivers/power/built-in.o drivers/power/power_supply.o drivers/power/rk30_adc_battery.o drivers/power/rk29_charger_display.o 
